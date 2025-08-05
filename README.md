@@ -123,13 +123,13 @@ requirements.txt # Python dependencies
 git clone https://github.com/your-username/nba-contract-value.git
 cd nba-contract-value
 2. Set up your environment
-(Optional but recommended) Create a virtual environment, then install the dependencies:
+Create a virtual environment (optional but recommended) and install dependencies:
 
 bash
 Copy code
 pip install -r requirements.txt
 3. Run the notebook
-Open full_pipeline.ipynb in Jupyter or VS Code, and run all cells from top to bottom.
+Open full_pipeline.ipynb in Jupyter or VS Code and run all cells from top to bottom.
 
 Make sure the data/ folder contains the following files:
 
