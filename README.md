@@ -111,9 +111,6 @@ full_pipeline.ipynb # Complete analysis pipeline
 README.md # Project overview
 requirements.txt # Python dependencies
 
-yaml
-Copy code
-
 > Note: `main.ipynb` is for local experimentation and is excluded via `.gitignore`.
 
 ---
