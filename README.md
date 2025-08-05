@@ -123,11 +123,21 @@ requirements.txt # Python dependencies
 git clone https://github.com/your-username/nba-contract-value.git
 cd nba-contract-value
 2. Set up your environment
-Create a virtual environment (optional but recommended) and install dependencies:
+(Optional but recommended) Create a virtual environment, then install the dependencies:
 
 bash
 Copy code
 pip install -r requirements.txt
 3. Run the notebook
-Open full_pipeline.ipynb in Jupyter or VS Code and run all cells from top to bottom.
-Ensure the data/ folder is populated with the three CSV files.
+Open full_pipeline.ipynb in Jupyter or VS Code, and run all cells from top to bottom.
+
+Make sure the data/ folder contains the following files:
+
+NBA 2023–24 Stats Data.csv
+
+NBA Advanced Stats 2023–24 Season.csv
+
+NBA Contract Data.csv
+
+yaml
+Copy code
